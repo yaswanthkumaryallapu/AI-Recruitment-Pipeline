@@ -62,4 +62,10 @@ AI-Recruitment-Pipeline/
 ├── README.md                      # Project documentation
 └── LICENSE                        # License information
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+## Project Affiliation
+This project was developed as part of the Infosys SpringBoard internship program.
+
 
