@@ -53,11 +53,7 @@ AI-Recruitment-Pipeline/
 │   ├── Resume_screening.py
 │   └── predict.py
 │
-├── data/
-│   └── prediction_data.xlsx       # Input data file
-│
-├── output/
-│   └── predicted_selection_status.xlsx  # Final predictions
+├──── prediction_data.xlsx       # Input data file
 │
 ├── README.md                      # Project documentation
 └── LICENSE                        # License information
